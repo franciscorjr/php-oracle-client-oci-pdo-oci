@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER rosemberg <rosemberg.al@gmail.com>
+MAINTAINER francisco júnior <francisco_jr@outlook.com>
 ADD ./files /files_aux
 RUN export DEBIAN_FRONTEND=noninteractive && \
 apt-get update && \
